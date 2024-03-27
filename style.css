@@ -1,0 +1,871 @@
+.nav4 {
+    margin-left: 200px;
+    padding-left: 5px;
+    background-color: rgb(243, 105, 105);
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .a2 {
+    margin-right: 15px;
+    margin-top: 30px;
+  }
+  
+  .a3 {
+    margin-top: 40px;
+  }
+  
+  .img {
+    width: 29px;
+    height: 29px;
+    background-color: #e7e7e7;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: -5px;
+    border: solid black;
+    background-color: rgb(96, 3, 96);
+    margin-bottom: 15px;
+  }
+  .gow{
+    font-size: 30px;
+  }
+  
+  .pp {
+    font-size: 12px;
+    margin-right: 15px;
+  }
+  
+  .nav5 {
+    padding-left: 5px;
+    background-color: rgb(243, 105, 105);
+    border-radius: 10px;
+    color: white;
+    width: 200px;
+    text-align: center;
+  }
+  h2 {
+    font-size: 30px; /* Default font size */
+  }
+  .profile-img {
+    width: 250px; /* Adjust as needed */
+    height: 250px; /* Adjust as needed */
+    border-radius: 50%; /* Makes the image round */
+   
+}
+.c1{
+    margin-top: 50px;
+}
+.d1{
+  text-align: center;
+  background-color:rgb(29, 4, 53) ;
+  margin-top: 50px;
+  padding: 25px;
+border-radius: 20px;
+padding-right:30px ;
+
+
+}
+.e1{
+  color: white;
+  font-size: 30px;
+}
+.d2{
+  margin-top: 10px;
+}
+.d3{
+  margin-left: 4%;
+  color: red;
+  font-size: 30px;
+  
+}
+.d6{
+  font-size: 30px;
+  color: white;
+}
+.d4{
+  font-size: 30px;
+  color: white;
+}
+.d5{
+  font-size: 30px;
+  color:aqua;
+}
+.g1{
+  padding:10px;
+  background-color:rgb(96,3,96);
+  height:70px;
+  width:70px;
+  margin-right:50px ;
+  font-size: 50px;
+  border-radius:10px ;
+  color:white;
+}
+.g2{
+  padding:10px;
+  background-color: rgb(96,3,96);
+  height:70px;
+  width:70px;
+  margin-right:5px ;
+  font-size: 50px;
+  border-radius:10px ;
+  color:white;
+}
+.g3{
+  padding:10px;
+  background-color: rgb(96,3,96);
+  height:70px;
+  width:70px;
+  margin-right:20px ;
+  font-size: 50px;
+  border-radius:10px ;
+  color:white;
+}
+.g4{
+  padding:10px;
+  background-color: rgb(96,3,96);
+  height:70px;
+  width:70px;
+  margin-right:20px ;
+  font-size: 50px;
+  border-radius:10px ;
+  color:white;
+  align-items: center;
+}
+.k3{
+  margin-right: 90px;
+  width:fit-content; 
+height: fit-content;
+white-space: nowrap;
+}
+.k2{
+  margin-right: 90px;
+  width:fit-content; 
+height: fit-content;
+}
+.rh{
+  width:70px;
+  border-style: solid;
+  color:red;
+  border-width:2px ;
+  }
+  .k1{
+    font-size: 30px; 
+    width:fit-content; 
+    height: fit-content;
+margin-right: 90px;
+}
+.k4{
+  font-size: 30px; 
+  width:fit-content; 
+  height: fit-content;
+margin-right: 105px;
+}
+.t1{
+    margin-top: 150px;
+}
+.t2{
+    margin-top: 200px;
+}
+ .bi-star-fill {
+            color: gold;
+            font-size: 25px;
+            margin-right: 80px;
+            width:fit-content; 
+            height: fit-content;
+        }
+        .k5{
+          color: black;
+          font-size: 30px;
+          margin-left: 6px; 
+      }
+      .s1{
+        color: white;
+        margin-top: 200px;
+      }
+      .rounded-icon {
+        width: 40px;
+        height: 40px;
+        background-color: #e7e7e7;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 10px;
+    }
+    
+    
+    .instagram-icon {
+        color:white;
+        background-color: #DD2A7B; 
+    }
+    
+    .twitter-icon {
+        color:white; 
+        background-color: #1DA1F2;
+    }
+    
+    .linkedin-icon {
+        background-color: #0A66C2;
+        color:white;  
+    }
+    
+    .facebook-icon {
+       background-color: #3b5998;
+       color:white;
+    }
+    .line{
+        line-height:40px ;
+        word-spacing: 9px;
+        text-align: justify;
+        font-size: 20px;
+    }
+    .e2{
+      font-size: 30px;
+      text-align: justify;
+  }
+  .e1{
+    font-size: 20px;
+    text-align: center;
+  }
+  .text{
+    text-align: justify;
+   
+
+}
+
+
+.j1{
+  margin-top: 30px;
+         }
+         .j2{
+          margin-right:20px ;
+         }
+         .j3{
+          margin-right:20px ;
+         }
+         .c2{
+          font-size:15px ;
+          background-color:  rgb(39, 1, 39);
+          padding: 5px;
+          border-radius: 15px;
+          width:5px ;
+          margin-left:10px ;
+          border: solid rgb(96, 3, 96);
+          
+      }
+      .c3{
+          font-size:15px ;
+          background-color:  rgb(39, 1, 39);
+          padding: 5px;
+          border-radius: 15px;
+          width:5px ;
+          margin-left:10px ;
+          margin-top: 10px;
+          border: solid rgb(96, 3, 96);
+      }
+      .top{
+        margin-top: 100px;
+        color: white;
+      }
+      .s2{
+        font-size:30px ;
+       }
+       .v1{
+        background-color:rgb(96, 3, 96) ; 
+        border-radius: 10px;
+        width:80px ;
+        height:40px;
+        color:white;
+        border:none ;
+       }
+       .number{
+        font-size:20px;
+        background-color:rgb(96, 3, 96) ;
+        border-radius: 5px;
+        width:80px ;
+        height:40px;
+        margin-left:10px ;
+        padding-left: 10px;
+        padding-right: 10px;
+       }
+      
+    .z1{
+font-size:26px;
+margin-top: 50px;
+    }
+    .z2{
+        font-size:26px;
+        margin-top: 40px;    
+    }
+    .img1 {
+      width: 29px;
+      height: 29px;
+      background-color: #e7e7e7;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin:-4px ;
+      margin-bottom: 10px;
+      
+     
+  }
+  .x1{
+      margin-left: 10px;
+      margin-bottom: 10px;
+  }
+
+  .otp{
+    font-size:30px ;
+    margin-bottom:100px ;
+    
+    
+    
+}
+.close{
+  margin-top: 70px;
+  color: white;
+}
+.icon1{
+  text-align: center;
+  background-color:rgb(96, 3, 96);
+  color: rgb(109, 105, 105);
+  padding: 2px;
+  border-radius:   20px;
+  margin-top: 200px;
+  margin-left:60px ;
+  ;
+}
+.pic1{
+  width: 450px;
+  height: 400px; 
+  
+  margin-top: 10px;
+  
+  padding:20px;
+  border-radius: 25px;
+ 
+}
+
+.line5{
+  width:70px;
+  margin-top: 30px;
+  color:yellow;
+  border-width:2px ;
+  margin-right: 495px;
+  
+}
+.rup{
+  font-size: 20px;
+  
+  
+}
+.graphic{
+  font-size: 20px;
+}
+.view2{
+  background-color:yellow ; 
+  border-radius: 10px;
+  width:240px ;
+  height:40px;
+  color:black;
+  border:none ;
+  margin-top: 20px;
+}
+.icon3{
+  text-align: center;
+  background-color:rgb(96, 3, 96);
+  color: white;
+  padding: 2px;
+  border-radius:   20px;
+  margin-top: 200px;
+  margin-right: 100px;
+ 
+}
+.w1{
+  color: white;
+}
+.dots{
+  color: white;
+  font-size: 50px;
+  margin-bottom: 20px;
+  margin-left: 400px;
+}
+.op{
+  width:320px;
+  height:416px;
+  background-color: rgb(96, 3, 96);
+  position: relative;
+  overflow: hidden;
+}
+.jci{
+  position: absolute;
+  width:100%;
+  height:160px;
+  top: -50px;
+  left: -30%;
+  width:140%;
+  transform: rotate(-15deg);
+  overflow: hidden;
+}
+.ref{
+  position: relative;
+  top:140px;
+  color:white;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 20px;
+  font-size: 20px;
+  }
+  .td{
+    position: relative;
+top: 150px;
+color: white;
+margin-left: 20px;
+margin-right: 20px;
+}
+.im1{
+  margin-top: 10px;
+}
+.im{
+  margin-top: 20px;
+}
+.dd{
+  border: none;
+  border-radius: 10px;
+
+  margin-left: 30px;
+}
+.point{
+  display: flex;
+  margin-top: 40px;
+}
+.point1{
+  display: flex;
+  margin-left: 20px;
+  width: 20px;
+  height: 30px;
+}
+.ref1{ position: relative; 
+  top:290px; 
+  color:white; 
+  letter-spacing: 1px;
+  text-align: justify;
+   margin-left: 23px; }
+   .frd{
+    position: relative;
+    top:160px;   
+ }
+
+ .frd1{
+    position: relative;
+    top:160px;
+ }
+ .jci1{
+  position: absolute;
+  width:100%;
+  height:250px;
+  top: -50px;
+  left: -30%;
+  width:140%;
+  transform: rotate(-5deg);
+  overflow: hidden;
+  margin-left: 20px;
+}
+.jee{
+  margin-left: 80px;
+  margin-top: 20px;
+  
+}
+.bbb{
+  margin-top: 30px;
+}
+.hyyy{
+  margin-top: 30px;
+}
+.number1{
+  font-size:20px;
+  background-color:rgb(96, 3, 96) ;
+  border-radius: 5px;
+  width:80px ;
+  height:40px;
+  margin-left:10px ;
+  padding-left: 10px;
+  padding-right: 10px;
+ }
+ .otp1{
+  font-size:30px ;
+  margin-bottom:70px ;
+  
+  
+}
+.v2{
+  background-color:rgb(96, 3, 96) ; 
+  border-radius: 10px;
+  width:200px ;
+  height:40px;
+  color:white;
+  border:none ;
+ }
+ .close4{
+  margin-top: 110px;
+  color: white;
+}
+.design{
+  font-size: 30px;
+  margin-top:50px ;
+ }
+ .b1{
+  color: rgb(206, 203, 203);
+ }
+ .v9{
+  background-color:white ; 
+  border-radius: 10px;
+  width:150px ;
+  height:50px;
+  color:black;
+  border:none ;
+  margin-left: 30px;
+ }
+ .o1{
+  font-size: 20px;
+ }
+ .tag1{
+  font-size: 40px;
+ }
+ .tt{
+  color: white;
+ } .pet {
+  border: none; /* Remove the default border */
+  height: 2px; /* Set the thickness of the line */
+  background-color: white; /* Set the color of the line */
+  width: 95%; /* Set the width of the line */
+  margin: 20px auto; /* Center the line horizontally and provide spacing */
+}
+.nexus{
+  border-radius: 20px;
+  width:20px;
+  height:20px;
+ }
+ .x3{
+  margin-left:20px;
+ }
+.x2{
+  margin-left: 20px;
+  margin-bottom:30px;
+}     
+.hy{
+  height:270px;
+  border-radius: 20px;
+}
+.ght{
+  margin-right:185px;
+}
+.pop{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.god{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.vy{
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.rest{
+  margin-top: 110px;
+}
+.ds{
+  color: white;
+}
+.otp2{
+  font-size:30px ;
+  margin-top:100px ;
+  
+  
+}
+.son{
+  margin-top:70px ;
+}
+.number3{
+  font-size:20px;
+  background-color:rgb(96, 3, 96) ;
+  border-radius: 5px;
+  width:80px ;
+  height:40px;
+  margin-left:10px ;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.icon3{
+  text-align: center;
+  background-color:rgb(96, 3, 96);
+  color: white;
+  padding: 2px;
+  border-radius:   20px;
+  margin-top: 140px;
+  margin-left:30px ;}
+  .pic5{
+    width:300px;
+    height:250px;
+    border-radius: 3px;
+    
+       }
+       .pic4{
+        width:300px;
+        height:250px;
+        border-radius: 3px;
+        
+           }
+           .pic3{
+            width:300px;
+            height:250px;
+            border-radius: 3px;
+               }
+               .erode3{
+                margin-top: 10px;
+                margin-left: 20px;
+            }
+            .fr{
+                margin-left: 30px;
+            }
+            .hh{
+                margin-left: 30px;
+            }
+            .z1{
+              font-size:30px ;
+          }
+          .ri{
+            margin-top: 90px;
+            color: white;
+          }
+          .you1{
+            width:150px;
+            height:150px;
+            padding: 10px;
+            border-radius: 20px;
+            
+        }
+        
+      .sports{
+        font-size: 20px;
+    }
+    .bold{
+      font-size: 20px;
+      margin-top: 50px;
+      margin-left: 10px;
+    }
+    .red{
+      margin-top: 30px;
+    }
+    .det{
+      color: white;
+     
+    }
+    .skill{
+     
+      color: white;
+  }
+  .bold1{
+    font-size: 20px;
+    
+    margin-left: 10px;
+  }
+  .hai1{
+      font-size:15px ;
+      background-color:  white;
+      padding: 3px;
+      border-radius: 15px;
+      width:5px ;
+      margin-left:10px ;
+      border: solid rgb(96, 3, 96);
+      color:black;
+      text-align: center;
+  }
+      .hai2{
+          font-size:15px ;
+          background-color:  white;
+          padding: 3px;
+          border-radius: 3px;
+          width:10px;
+          
+          border: solid rgb(96, 3, 96);
+          color:black;
+          
+          text-align: center;
+      }
+      .s5{
+        border-radius: 5px;
+    }
+    .foun{
+     
+      margin-right: 20px;
+      font-size:15px
+  }
+  
+  .college{
+      font-size:30px;
+      
+  }
+  .dot{
+      font-size: 20px;
+     
+  }
+  .lo{
+    color:rgb(96,3,96);
+    margin-top:50px;
+}
+.der{
+  background-color: #ec3232;
+  margin-top: 70px;
+  color: white;
+}
+.get{
+  background-color: black;
+  width: 130px;
+  border-radius: 5px;
+  text-align: center;
+}
+.kip{
+  margin-top:30px;
+  font-size: 20px;
+}
+.hjh{
+  margin-top: 30px;
+  margin-left:100px ;
+      }
+      .great{
+        margin-left: 580px;
+        margin-top: 30px;
+    }
+    .nex1 {
+      width: 29px;
+      height: 29px;
+      background-color: #e7e7e7;
+      border-radius: 50%;
+      margin-right: 10px;
+      margin-left: 10px;
+      margin-bottom: 10px;
+      
+     
+  }
+  .pen{
+      margin-left: 560px;
+      margin-top: 90px;
+  }
+  .last{
+    margin-top: 120px;
+    text-align: center;
+}
+.pl{
+  color:white;
+}
+.badge{
+  background-color: yellow;
+  width:40px;
+  position: relative;
+  top:50px;
+  height:70px;
+  margin-left: -300px;
+}
+.point1{
+  display: flex;
+  margin-left: 20px;
+}
+.ref1{ position: relative; 
+  top:290px; 
+  color:white; 
+  letter-spacing: 1px;
+  text-align: justify;
+   margin-left: 10px; 
+   font-size: 20px;} 
+   .frd{
+      position: relative;
+      top:160px;   
+   }
+   .jci1{
+    position: absolute;
+    width:100%;
+    height:300px;
+    top: -50px;
+    left: -30%;
+    width:140%;
+    transform: rotate(-5deg);
+    overflow: hidden;
+    margin-left: 10px;
+    
+}
+.op{
+  width:320px;
+  height:456px;
+  background-color: rgb(96, 3, 96);
+  position: relative;
+  overflow: hidden;
+}
+.git{
+  color:white;
+  display: flex;
+  margin-left: 50px;
+}
+.op1{
+  width:320px;
+  height:456px;
+  background-color: rgb(96, 3, 96);
+  position: relative;
+  overflow: hidden;
+  margin-left: 20px;
+}
+.jci{
+  position: absolute;
+  width:100%;
+  height:160px;
+  top: -50px;
+  left: -30%;
+  width:190%;
+  transform: rotate(-15deg);
+  overflow: hidden;
+}
+.ref{
+  position: relative;
+  top:140px;
+  color:white;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 40px;
+  font-size: 20px;
+  
+  }
+  .td{
+    position: relative;
+top: 150px;
+color: white;
+margin-left: 60px;
+margin-right: 20px;
+}
+.fip{
+  margin-left: 130px;
+}
+.ref10{
+  margin-left: 10px;
+  
+}
+.pix2{
+  margin-left: 20px;
+}
+.ref4{
+  margin-top: 200px;
+}
+.pix{
+  margin-top: 20px;
+  margin-left: 20px;
+}.vie{
+  padding:7px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  margin-left: 40px;
+}

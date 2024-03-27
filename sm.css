@@ -1,0 +1,458 @@
+@media only screen and (max-width: 330px) {
+    .img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .gow {
+        font-size: 20px;
+    }
+
+    .pp {
+        font-size: 10px;
+        margin-right: 10px;
+    }
+
+    .nav5 {
+        width: 150px;
+        font-size: 12px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    .profile-img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .c1 {
+        margin-top: 30px;
+    }
+
+    .d1 {
+        padding: 15px;
+        border-radius: 10px;
+    }
+
+    .e1 {
+        font-size: 20px;
+    }
+
+    .d2 {
+        margin-top: 5px;
+    }
+
+    .d3 {
+        font-size: 20px;
+    }
+
+    .d6 {
+        font-size: 20px;
+    }
+
+    .d4 {
+        font-size: 20px;
+    }
+
+    .d5 {
+        font-size: 20px;
+    }
+
+    .g1 {
+        height: 50px;
+        width: 50px;
+        font-size: 30px;
+    }
+
+    .g2 {
+        height: 50px;
+        width: 50px;
+        font-size: 30px;
+    }
+
+    .g3 {
+        height: 50px;
+        width: 50px;
+        font-size: 30px;
+    }
+
+    .g4 {
+        height: 50px;
+        width: 50px;
+        font-size: 30px;
+    }
+
+    .k3 {
+        margin-right: 50px;
+    }
+
+    .k2 {
+        margin-right: 50px;
+    }
+
+    .k1 {
+        font-size: 20px;
+        margin-right: 50px;
+    }
+
+    .k4 {
+        font-size: 20px;
+        margin-right: 65px;
+    }
+
+    .t1 {
+        margin-top: 70px;
+    }
+
+    .t2 {
+        margin-top: 100px;
+    }
+
+    .bi-star-fill {
+        font-size: 15px;
+        margin-right: 40px;
+    }
+    .rounded-icon {
+        width: 30px;
+        height: 30px;
+        margin-right: 5px;
+    }
+
+    .line {
+        font-size: 16px;
+    }
+
+    .e2 {
+        font-size: 20px;
+    }
+
+    .text {
+        font-size: 16px;
+    }
+    .hide {
+        display: none;
+    }
+    .hide-lg320 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .col {
+        width: 50%;
+    }
+    .hide-lg {
+        display: none;
+        margin-left: 40px;
+    }
+    .view {
+        margin-left: 15px; /* Add margin to the left */
+        text-align: left; /* Align button to the left */
+    }
+   
+    .otp {
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    
+    .close {
+        margin-top: 50px;
+    }
+    
+    .v1 {
+        width: 60px;
+        height: 30px;
+        font-size: 14px;
+    }
+    
+    .number {
+        font-size: 14px;
+        width: 60px;
+        height: 30px;
+        margin-left: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .icon1 {
+        margin-top: 100px;
+        margin-left: 30px;
+    }
+    
+    .pic1 {
+        width: 300px;
+        height: auto;
+        margin-top: 10px;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    
+    .line5 {
+        width: 50px;
+        margin-top: 20px;
+        margin-right: 220px;
+    }
+    
+    .rup {
+        font-size: 16px;
+    }
+    
+    .view2 {
+        width: 160px;
+        margin-top: 10px;
+    }
+    
+    .icon3 {
+        margin-top: 100px;
+        margin-right: 30px;
+    }
+    
+    .dots {
+        font-size: 30px;
+        margin-bottom: 10px;
+        margin-left: 90px;
+        align-items: center;
+    }
+    .op {
+        width: 100%;
+        height: auto;
+        margin-right: 70px;
+        margin-top: 20px;
+      }
+    
+      .jci {
+        width: 100%;
+        height: 100px;
+        top: -20px;
+        left: -10%;
+        width: 120%;
+        transform: rotate(-10deg);
+      }
+    
+      .ref {
+        top: 100px;
+        font-size: 16px;
+        margin-left: 10px;
+      }
+    
+      .td {
+        top: 110px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 14px;
+      }
+    
+      .im1,
+      .im {
+        margin-top: 5px;
+      }
+    
+      .dd {
+        margin-left: 10px;
+      }
+      .point {
+        margin-top: 20px;
+      }
+    
+      .point1 {
+        margin-left: 10px;
+        width: 15px;
+        height: 25px;
+      }
+    
+      .ref1 {
+        top: 200px;
+        margin-left: 10px;
+      }
+    
+      .frd,
+      .frd1 {
+        top: 120px;
+      }
+      .jci1 {
+        height: 150px; /* Example height for smaller screens */
+      }
+    
+      .jee {
+        margin-left: 40px; /* Adjusted margin for smaller screens */
+      }
+      .number1 {
+        font-size: 16px; /* Example font-size for smaller screens */
+        width: 60px; /* Example width for smaller screens */
+        height: 30px; /* Example height for smaller screens */
+      }
+    
+      .otp1 {
+        font-size: 24px; /* Example font-size for smaller screens */
+        margin-bottom: 50px; /* Example margin for smaller screens */
+      }
+    
+      .v2 {
+        width: 250px; /* Example width for smaller screens */
+      }
+    
+      /* Additional styles for screens up to 330px wide */
+      .v9 {
+        width: 280px; /* Example width for smaller screens */
+        height: 40px; /* Example height for smaller screens */
+        font-size: 14px; /* Example font-size for smaller screens */
+        margin-left: 10px; /* Example margin for smaller screens */
+      }
+    
+      .pet {
+        margin: 10px auto; /* Example margin for smaller screens */
+      }
+      .x3 {
+        margin-left: 10px; /* Example margin for smaller screens */
+      }
+    
+      .x2 {
+        margin-left: 10px; /* Example margin for smaller screens */
+        margin-bottom: 20px; /* Example margin for smaller screens */
+      }
+    
+      .hy {
+        height: 200px; /* Example height for smaller screens */
+      }
+    
+      .ght {
+        margin-right: 100px; /* Example margin for smaller screens */
+      }
+    
+      .pop,
+      .god,
+      .vy {
+        margin-top: 10px; /* Example margin for smaller screens */
+        margin-left: 10px; /* Example margin for smaller screens */
+      }
+    
+      .rest {
+        margin-top: 50px; /* Example margin for smaller screens */
+      }
+    
+      .otp2 {
+        font-size: 24px; /* Example font-size for smaller screens */
+        margin-top: 50px; /* Example margin for smaller screens */
+      }
+    
+      /* Additional styles for screens up to 330px wide */
+      .son {
+        margin-top: 50px; /* Example margin for smaller screens */
+      }
+    
+      .number3 {
+        font-size: 16px; /* Example font-size for smaller screens */
+        width: 60px; /* Example width for smaller screens */
+        height: 30px; /* Example height for smaller screens */
+      }
+    
+      .icon3 {
+        margin-top: 120px; /* Example margin for smaller screens */
+      }
+    
+      .pic5,
+      .pic4,
+      .pic3 {
+        width: 200px; /* Example width for smaller screens */
+        height: 150px; /* Example height for smaller screens */
+      }
+    
+      .erode3,
+      .fr,
+      .hh {
+        margin-left: 10px; /* Example margin for smaller screens */
+      }
+    
+      .ri {
+        margin-top: 70px; /* Example margin for smaller screens */
+      }
+    
+      .you1 {
+        width: 100px; /* Example width for smaller screens */
+        height: 100px; /* Example height for smaller screens */
+      }
+    
+      .sports {
+        font-size: 16px; /* Example font-size for smaller screens */
+      }
+      .point1 {
+        display: flex;
+        margin-left: 10px;
+      }
+    
+      .ref1 {
+        position: relative;
+        top: 290px;
+        color: white;
+        letter-spacing: 1px;
+        text-align: justify;
+        margin-left: 10px;
+        font-size: 20px;
+      }
+    
+      .frd {
+        position: relative;
+        top: 160px;
+      }
+    
+      .jci1 {
+        position: absolute;
+        width: 100%;
+        height: 300px;
+        top: -50px;
+        left: -30%;
+        width: 140%;
+        transform: rotate(-5deg);
+        overflow: hidden;
+        margin-left: 10px;
+      }
+      .great {
+        display: flex;
+        flex-direction: row; /* Stack items vertically */
+        align-items: center; /* Center items horizontally */
+        margin-left: 10px; /* Adjust the left margin for smaller screens */
+        margin-top: 10px; /* Adjust the top margin for smaller screens */
+      }
+    
+     last{
+        margin-top: 120px;
+        text-align: center;
+    }
+    
+      
+      
+      
+        .hai1,
+        .s5 {
+          display: none;
+        }
+        .bullet {
+            display: none;
+          }
+          .skill {
+            display: none;
+          }
+          .rounded-icon {
+            margin: 5px; /* Adjust the spacing between icons */
+          }
+          .tag1 {
+            font-size: 40px;
+          }
+        
+          .rounded-icon i {
+            font-size: 20px; /* Adjust the size of the icons */
+          }
+          .nex1 {
+            width: 29px;
+            height: 29px;
+            background-color: #e7e7e7;
+            border-radius: 50%;
+            margin: 0 auto 10px; /* Center the image horizontally and add bottom margin */
+        }
+    
+        .pen {
+            text-align: center; /* Center the text */
+            margin-left: auto; /* Center the container horizontally */
+            margin-right: auto; /* Center the container horizontally */
+            margin-top: 10px; /* Adjust top margin for smaller screens */
+        }
+}

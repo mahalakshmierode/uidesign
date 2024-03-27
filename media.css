@@ -1,0 +1,554 @@
+@media screen and (min-width: 320px) and (max-width: 900px) {
+    /* Specify your styles for screens between 320px and 900px width here */
+    h2 {
+        font-size: 24px; /* Adjust font size for smaller screens */
+      }
+      .ml-auto {
+        order: -1; /* Moves the profile image to the beginning on smaller screens */
+      }
+      .nav4 {
+        margin-left: 0; /* Adjust as needed */
+        margin-top: 10px; /* Adjust as needed */
+        width: 100%; /* Adjust as needed */
+      }
+    
+      .a2 {
+        margin-right: 10px; /* Adjust as needed */
+        margin-top: 15px; /* Adjust as needed */
+      }
+    
+      .a3 {
+        margin-top: 20px; /* Adjust as needed */
+      }
+    
+      .img {
+        width: 20px; /* Adjust as needed */
+        height: 20px; /* Adjust as needed */
+        margin: -3px; /* Adjust as needed */
+        margin-bottom: 10px; /* Adjust as needed */
+      }
+    
+      .gow {
+        font-size: 20px; /* Adjust as needed */
+      }
+    
+      .pp {
+        font-size: 10px; /* Adjust as needed */
+        margin-right: 10px; /* Adjust as needed */
+      }
+    
+      .nav5 {
+        width: 150px; /* Adjust as needed */
+        padding-left: 3px; /* Adjust as needed */
+      }
+    
+      h2 {
+        font-size: 20px; /* Adjust as needed */
+      }
+    
+      .profile-img {
+        width: 150px; /* Adjust as needed */
+        height: 150px; /* Adjust as needed */
+      }
+    
+      .c1 {
+        margin-top: 30px; /* Adjust as needed */
+      }
+      .d2 {
+        margin-top: 5px; /* Adjust as needed */
+      }
+    
+      .d3 {
+        margin-left: 2%; /* Adjust as needed */
+        font-size: 20px; /* Adjust as needed */
+        color: red; /* Adjust as needed */
+      }
+    
+      .d6,
+      .d4,
+      .d5 {
+        font-size: 20px; /* Adjust as needed */
+      }
+      .g1,
+  .g2,
+  .g3,
+  .g4 {
+    margin-right: 20px; /* Adjust as needed */
+  }
+
+  .k3,
+  .k1 {
+    margin-right: 20px; /* Adjust as needed */
+  }
+
+  .k4 {
+    margin-right: 35px; /* Adjust as needed */
+  }
+
+  .bi-star-fill {
+    margin-right: 20px; /* Adjust as needed */
+  }
+  f9{
+    width:50px;
+  }
+    .g1 {
+      padding: 10px;
+      background-color: rgb(96, 3, 96);
+      height: 70px;
+      width: 70px;
+      margin-right: 50px;
+      font-size: 50px;
+      border-radius: 10px;
+      color: white;
+    }
+  
+    .g2 {
+      padding: 10px;
+      background-color: rgb(96, 3, 96);
+      height: 70px;
+      width: 70px;
+      margin-right: 5px;
+      font-size: 50px;
+      border-radius: 10px;
+      color: white;
+    }
+  
+    .g3 {
+      padding: 10px;
+      background-color: rgb(96, 3, 96);
+      height: 70px;
+      width: 70px;
+      margin-right: 20px;
+      font-size: 50px;
+      border-radius: 10px;
+      color: white;
+    }
+  
+    .g4 {
+      padding: 10px;
+      background-color: rgb(96, 3, 96);
+      height: 70px;
+      width: 70px;
+      margin-right: 20px;
+      font-size: 50px;
+      border-radius: 10px;
+      color: white;
+      align-items: center;
+    }
+  
+    .k3 {
+      margin-right: 90px;
+      width: fit-content;
+      height: fit-content;
+      white-space: nowrap;
+    }
+  
+    .k2 {
+      margin-right: 90px;
+      width: fit-content;
+      height: fit-content;
+    }
+  
+    .rh {
+      width: 70px;
+      border-style: solid;
+      color: red;
+      border-width: 2px;
+    }
+  
+    .k1 {
+      font-size: 30px;
+      margin-right: 90px;
+    }
+  
+    .k4 {
+      font-size: 30px;
+      margin-right: 105px;
+    }
+  
+    .t1 {
+      margin-top: 150px;
+    }
+  
+    .t2 {
+      margin-top: 200px;
+    }
+  
+    .bi-star-fill {
+      color: gold;
+      font-size: 25px;
+      margin-right: 90px;
+    }
+  
+    .k5 {
+      color: black;
+      font-size: 30px;
+      margin-left: 6px;
+    }
+    .s1 {
+        color: white;
+        margin-top: 200px;
+      }
+    
+      .rounded-icon {
+        width: 40px;
+        height: 40px;
+        background-color: #e7e7e7;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 10px;
+      }
+    
+      .instagram-icon {
+        color: white;
+        background-color: #DD2A7B; 
+      }
+    
+      .twitter-icon {
+        color: white; 
+        background-color: #1DA1F2;
+      }
+    
+      .linkedin-icon {
+        background-color: #0A66C2;
+        color: white;  
+      }
+    
+      .facebook-icon {
+        background-color: #3b5998;
+        color: white;
+      }
+      .d-flex {
+        display: flex;
+      }
+      
+      .align-items-center {
+        align-items: center;
+      }
+      
+      .col {
+        flex: 1; /* Equal width for all columns */
+        padding: 5px; /* Adjust padding as needed */
+      }
+      
+      /* Media query for minimum width of 320px */
+      @media screen and (min-width: 320px) {
+        .col-sm-6 {
+            flex: 0 0 50%; /* Two cards per row for screens wider than 320px */
+          }
+          
+          
+          .col-md-3 {
+            flex: 0 0 100%; /* One column per row for screens wider than 320px */
+          }
+          
+          .col-sm-3 {
+            flex: 0 0 33.33%; /* Three cards per row for screens wider than 320px */
+          }
+        
+          .card {
+            height: 100%; /* Ensure cards fill available height */
+          }
+        .c2,
+        .c3 {
+          flex-basis: 50%; /* Two columns per row for screens wider than 320px */
+        }
+    
+      .line {
+        line-height: 40px;
+        word-spacing: 9px;
+        text-align: justify;
+      }
+    
+      .e2 {
+        font-size: 30px;
+        text-align: justify;
+      }
+    
+      .text {
+        text-align: justify;
+      }
+    
+      .j1 {
+        margin-top: 30px;
+      }
+    
+      .j2 {
+        margin-right: 20px;
+      }
+    
+      .j3 {
+        margin-right: 20px;
+      }
+    
+      .c2,
+  .c3 {
+    font-size: 15px;
+    background-color: rgb(39, 1, 39);
+    padding: 5px;
+    border-radius: 15px;
+    width: 5px;
+    margin-left: 5px;
+    border: solid rgb(96, 3, 96);
+  }
+
+  .c3 {
+    margin-top: 10px;
+  }
+      .text .line {
+        /* Add your specific styles for the .line class within .text here */
+        text-align: justify;
+        /* Add any other styles you need */
+      }
+      .top {
+        margin-top: 100px;
+        color: white;
+      }
+    
+      .s2 {
+        font-size: 30px;
+      }
+    
+      .v1 {
+        background-color: rgb(96, 3, 96);
+        border-radius: 10px;
+        width: 80px;
+        height: 40px;
+        color: white;
+        border: none;
+      }
+    
+      .number {
+        font-size: 20px;
+        background-color: rgb(96, 3, 96);
+        border-radius: 5px;
+        width: 80px;
+        height: 40px;
+        margin-left: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+    
+      
+      .z1 {
+        font-size: 26px;
+        margin-top: 50px;
+      }
+    
+      .z2 {
+        font-size: 26px;
+        margin-top: 40px;
+      }
+    
+      .img1 {
+        width: 29px;
+        height: 29px;
+        background-color: #e7e7e7;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: -4px;
+        margin-bottom: 10px;
+      }
+    
+      .x1 {
+        margin-left: 10px;
+        margin-bottom: 10px;
+      }
+      .icon1,
+  .icon3 {
+    display: inline-block;
+    font-size: 24px; /* Adjust size as needed */
+    margin-top: 10px; /* Adjust margin as needed */
+  }
+    
+      .Row {
+        /* Adjust row styles for smaller screens if necessary */
+        flex-wrap: wrap;
+      }
+    
+      .col-1,
+      .col-5,
+      .col-3 {
+        /* Adjust column styles for smaller screens if necessary */
+        width: 100%;
+      }
+    
+      .ll {
+        /* Adjust styles of the column containing text for smaller screens if necessary */
+        text-align: center;
+        margin-top: 20px; /* Example adjustment */
+      }
+    
+      .pic1 {
+        /* Adjust image styles for smaller screens if necessary */
+        width: 100%;
+        height: auto;
+      }
+    
+      .dots {
+        /* Adjust styles of the dots column for smaller screens if necessary */
+        text-align: center;
+        margin-top: 20px; /* Example adjustment */
+      }
+  }
+  .design {
+    font-size: 30px;
+    margin-top: 50px;
+  }
+  
+  .b1 {
+    color: rgb(206, 203, 203);
+  }
+  
+  .v9 {
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    color: black;
+    border: none;
+    margin-left: 400px;
+  }
+  
+  .tt {
+    color: white;
+  }
+  
+  .pet {
+    border: none; /* Remove the default border */
+    height: 2px; /* Set the thickness of the line */
+    background-color: white; /* Set the color of the line */
+    width: 95%; /* Set the width of the line */
+    margin: 20px auto; /* Center the line horizontally and provide spacing */
+  }
+  .design {
+    font-size: 30px;
+    margin-top: 50px;
+  }
+
+  .b1 {
+    color: rgb(206, 203, 203);
+  }
+
+  .v9 {
+    margin-left: 400px;
+    /* Adjusted margin for wider screens */
+  }
+
+  .tt {
+    color: white;
+  }
+
+  .pet {
+    border: none;
+    /* Remove the default border */
+    height: 2px;
+    /* Set the thickness of the line */
+    background-color: white;
+    /* Set the color of the line */
+    width: 95%;
+    /* Set the width of the line */
+    margin: 20px auto;
+    /* Center the line horizontally and provide spacing */
+  }
+  .v9 {
+    margin-left: 30px; /* Adjusted margin for wider screens */
+    
+  }
+
+ 
+
+  /* Targeting the "View service" button at the bottom for screens wider than 320px */
+  .col:last-child .v9 {
+    margin-left: 0; /* Resetting margin-left */
+    margin-top: 20px; /* Adjusting top margin */
+  }
+  .col-4 {
+    flex: 0 0 100%; /* Set each column to occupy the full width */
+    max-width: 100%; /* Set the maximum width to 100% */
+    margin-top: 30px;
+  }
+  .z1 {
+    font-size: 25px; /* Adjust font size for smaller screens */
+  }
+  .ri {
+    margin-top: 50px; /* Decrease margin-top for smaller screens */
+  }
+  .you1 {
+    width: 120px; /* Adjust width for smaller screens */
+    height: 120px; /* Adjust height for smaller screens */
+  }
+  .sports {
+    font-size: 18px; /* Adjust font size for smaller screens */
+  }
+  .bold {
+    font-size: 18px; /* Adjust font size for smaller screens */
+    margin-top: 30px; /* Decrease margin-top for smaller screens */
+    margin-left: 30px; /* Adjust margin-left for smaller screens */
+  }
+  .red {
+    margin-top: 20px; /* Decrease margin-top for smaller screens */
+  }
+  .det  {
+    color: white;
+    margin-left: 29px; /* Change text color for better visibility on white background */
+  }
+  .skill{
+    color: white;
+    
+  }
+  .hai1 {
+    font-size: 12px; /* Adjust font size for smaller screens */
+    border-radius: 10px;
+    padding: 3px; 
+    width:5px ;/* Adjust border radius for smaller screens */
+  }
+  .hai2 {
+    font-size: 12px; /* Adjust font size for smaller screens */
+    border-radius: 5px;
+    padding: 3px;
+    width:5px ; /* Adjust border radius for smaller screens */
+  }
+  .s5 {
+    border-radius: 3px; /* Adjust border radius for smaller screens */
+  }
+  .great {
+    flex-direction: column; /* Stack icons vertically */
+    justify-content: center; /* Center align icons */
+    .you1 {
+      width: 150px;
+      height: 150px;
+      padding: 10px;
+      border-radius: 20px;
+  }
+    gap: 10px; /* Add some space between icons */
+  }
+  .rounded-icon {
+    width: 40px; /* Adjust icon size */
+    height: 40px; /* Adjust icon size */
+    border-radius: 50%; /* Make icons rounded */
+    margin-left:100%
+  }
+  .pen {
+    font-size: 14px; /* Adjust font size */
+  }
+  .nex1 {
+    width: 50px; /* Adjust image size */
+    height: 50px; /* Adjust image size */
+    margin-right: 10px; /* Add some space between image and text */
+  }
+  .you{
+    width:50px
+  }
+  }
+  
+
+  
+
+      
+      
+  
